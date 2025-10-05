@@ -1,0 +1,2 @@
+# My-Python-Practice
+This is my first own repo which includes my python practice code.
