@@ -1,6 +1,12 @@
-# My-Python-Practice
-This is my first own repo which includes my python practice code.
-updates some files
-new project add
-new programs add
-Today's Topic: Input / Output
+# 🐍 Python Playground
+
+This is my personal Python practice repo!  
+Every file here represents a small step in my Python learning journey.
+
+💡 Learning Topics:
+- Beginner Programs: Datatypes,Variables,Loops,Conditionals
+- Python Functions and OOP
+- Data Structures: Lists,Tuples,Sets,Dictionaries
+- Small Exercises & Codes
+
+“Practice makes perfect!” 🔥
